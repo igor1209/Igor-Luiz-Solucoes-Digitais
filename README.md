@@ -38,14 +38,9 @@ Criar um site profissional capaz de:
 
 ---
 
-## 🌐 Execução do projeto
+## 🌐 Acesse o projeto
 
-Atualmente o projeto roda localmente.
-
-Para visualizar:
-
-1. Baixe ou clone o repositório
-2. Abra o arquivo `index.html` no navegador
+https://igor1209.github.io/Igor-Luiz-Solucoes-Digitais/
 
 ---
 
@@ -55,7 +50,14 @@ Para visualizar:
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/adc14be5-bbd6-4ef2-b881-132d9c880138" />
 
+---
 
+## ⚙️ Execução local
+
+Para rodar o projeto localmente:
+
+1. Baixe ou clone o repositório
+2. Abra o arquivo `index.html` no navegador
 
 ---
 
@@ -70,8 +72,8 @@ Para visualizar:
 
 - Publicar via GitHub Pages
 - Integração do formulário com backend
-- Adição de animações e interatividade
-- Integração com APIs externas
+- Melhorias visuais e animações
+- Evolução para projetos mais complexos
 
 ---
 
